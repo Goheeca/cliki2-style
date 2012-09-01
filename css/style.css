@@ -222,6 +222,10 @@
     margin-left: 40px;
 }
 
+#content-area dd {
+    margin-left: 40px;
+}
+
 #content-area .code {
     background: #F7FBFD;
 }
