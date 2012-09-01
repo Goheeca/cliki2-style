@@ -249,7 +249,7 @@
 #content-area a { color: #0000ee; }
 #content-area a:visited { color:#1c0080; }
 #content-area a.new { color: #BA0000; text-decoration: none; }
-#content-area a.category { color:#6c6591; text-decoration: none; }
+#content-area a.category { color: rgb(0, 119, 187); text-decoration: none; }
 #content-area a.hyperspec { color: #4040f2; font-weight: bold;}
 #content-area a.download { color: #00E; font-weight: bold; }
 
