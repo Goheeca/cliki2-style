@@ -224,12 +224,15 @@
     color: #256aa3;
 }
 
-#content-area li {
-    list-style-type: square;
-    margin-left: 40px;
+#content-area ul, #content-area ol {
+    padding-bottom: 1em;
 }
 
-#content-area dd {
+#content-area ul li {
+    list-style-type: square;
+}
+
+#content-area li, #content-area dd {
     margin-left: 40px;
 }
 
