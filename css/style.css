@@ -369,3 +369,13 @@ table.diff .undo {
 .hidden {
     display:none;
 }
+
+form.prefs {
+    display:inline-block;
+    margin-right:1em;
+    vertical-align:top;
+}
+
+fieldset.prefs {
+    padding:10px;
+}
